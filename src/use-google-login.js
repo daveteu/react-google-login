@@ -89,6 +89,7 @@ const useGoogleLogin = ({
           discoveryDocs,
           ux_mode: uxMode,
           redirect_uri: redirectUri,
+          response_type: responseType,
           scope,
           access_type: accessType
         }
